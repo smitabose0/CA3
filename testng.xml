@@ -5,8 +5,8 @@
           name="/Users/smitabose/IdeaProjects/CA3/src/test/java/org/example/MailLoginTesting.java">
         <parameter name="browser" value="chrome"></parameter>
         <parameter name="url" value="https://mail.google.com/"></parameter>
-        <parameter name="username" value="smitaboseofficial@gmail.com"></parameter>
-        <parameter name="password" value="Smita@0987"></parameter>
+        <parameter name="username" value="abc@gmail.com"></parameter>
+        <parameter name="password" value="Xyz@0123"></parameter>
         <classes>
             <class name="org.example.MailLoginTesting"></class>
         </classes>
